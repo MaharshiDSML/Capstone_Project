@@ -2,7 +2,14 @@
 
 ## Analysis of Real-life Business Cases
 
-![Project Cover](path/to/your/image.png)
+![Project Screenshot](https://github.com/MaharshiDSML/Capstone_Project/blob/main/Capture.PNG)
+
+![Project Screenshot](https://github.com/MaharshiDSML/Capstone_Project/blob/main/Capture1.PNG)
+
+![Project Screenshot](https://github.com/MaharshiDSML/Capstone_Project/blob/main/Capture2.PNG)
+
+![Project Screenshot](https://github.com/MaharshiDSML/Capstone_Project/blob/main/Capture3.PNG)
+
 
 This repository contains a project report on **Analysis of Real-life Business Cases**. The report analyzes five different business case studies completed as part of a **Master of Science in Data Science, Machine Learning, and AI**.
 
